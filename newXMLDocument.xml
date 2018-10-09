@@ -1,0 +1,13 @@
+ import java.util.*;
+ public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int numero;
+        String cadena;
+        System.out.println("Juan Antonio: ");
+        System.out.println("13:");
+        numero = sc.nextInt();
+        cadena = sc.nextLine();
+        System.out.println(cadena);
+    }
+}
